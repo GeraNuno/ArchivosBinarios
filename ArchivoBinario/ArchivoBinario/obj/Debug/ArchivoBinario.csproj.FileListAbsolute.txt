@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\2do Semestre\Programación Orientada a Objetos\6ta Unidad\ArchivoBinario\ArchivoBinario\bin\Debug\ArchivoBinario.exe.config
+C:\Users\Acer\Desktop\2do Semestre\Programación Orientada a Objetos\6ta Unidad\ArchivoBinario\ArchivoBinario\bin\Debug\ArchivoBinario.exe
+C:\Users\Acer\Desktop\2do Semestre\Programación Orientada a Objetos\6ta Unidad\ArchivoBinario\ArchivoBinario\bin\Debug\ArchivoBinario.pdb
+C:\Users\Acer\Desktop\2do Semestre\Programación Orientada a Objetos\6ta Unidad\ArchivoBinario\ArchivoBinario\obj\Debug\ArchivoBinario.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\2do Semestre\Programación Orientada a Objetos\6ta Unidad\ArchivoBinario\ArchivoBinario\obj\Debug\ArchivoBinario.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\2do Semestre\Programación Orientada a Objetos\6ta Unidad\ArchivoBinario\ArchivoBinario\obj\Debug\ArchivoBinario.exe
+C:\Users\Acer\Desktop\2do Semestre\Programación Orientada a Objetos\6ta Unidad\ArchivoBinario\ArchivoBinario\obj\Debug\ArchivoBinario.pdb
